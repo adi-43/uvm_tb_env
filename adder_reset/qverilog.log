@@ -1,0 +1,3 @@
+QuestaSim qverilog 10.1d Compiler 2012.11 Nov  1 2012
+C:\questasim_10.1d\win32\qverilog.exe .\run_do.do 
+** Error: .\run_do.do(2): near "set": syntax error, unexpected IDENTIFIER, expecting class
